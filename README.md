@@ -1,23 +1,27 @@
-# Renee Makimaa / Wayfinder Coaching — NFC Landing Page V5
+# Renee Makimaa / Wayfinder Coaching Landing Page V6
 
 GitHub Pages ready.
 
+## What changed in V6
+- Removed the awkward oversized/cropped image background.
+- Removed the sticky bottom button bar that was blocking content on mobile.
+- Added a cleaner mobile-first layout.
+- Used the portrait and logo as contained images so they do not crop strangely.
+- Kept the flyer image only as a small gallery/card item, not as a huge background.
+- Added Instagram, Facebook, LinkedIn, phone, email, website, and booking links.
+
 ## Upload instructions
 1. Unzip this folder.
-2. Open your GitHub repository.
-3. Delete/replace the old `index.html`, `styles.css`, `script.js`, and `assets` folder.
-4. Upload everything from this folder into the repository root.
-5. Commit changes.
-6. Go to **Settings → Pages** and confirm GitHub Pages deploys from the `main` branch and `/root` folder.
-7. Open: `https://miimiithae.github.io/coach.renee/`
+2. In your GitHub repo, delete the old files if replacing the previous version.
+3. Upload `index.html`, `styles.css`, `script.js`, `README.md`, and the full `assets` folder.
+4. Commit changes.
+5. GitHub Pages should deploy from `main` and `/root`.
 
-## Quick edit links
-- Website/book buttons: `https://www.wayfinderstrength.coach/coaching-options`
-- Instagram: `https://www.instagram.com/unlockyourinnercompass/`
-- Facebook search link included as placeholder. Replace with Renee's exact Facebook URL if preferred.
-- LinkedIn search link included as placeholder. Replace with Renee's exact LinkedIn URL if preferred.
-- Email: `info@wayfinderstrength.coach`
-- Phone: `305-930-5523`
-
-## Notes
-This version removes the awkward duplicated flyer/photo section and rebuilds the flyer text as polished HTML. The uploaded logo/mission image is still included as a brand story card so the business identity remains visible without looking repetitive.
+## Current links used
+- Website: https://www.wayfinderstrength.coach
+- Booking: https://www.wayfinderstrength.coach/booking-calendar/discovery-call
+- Instagram: https://www.instagram.com/unlockyourinnercompass/
+- Facebook: https://www.facebook.com/61580851190087
+- LinkedIn: https://www.linkedin.com/in/renee-makimaa-b30bb3a1
+- Email: info@wayfinderstrength.coach
+- Phone: 305-930-5523
